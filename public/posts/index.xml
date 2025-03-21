@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi Curriculum </title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Mi Curriculum </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Mar 2025 21:57:10 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursos</title>
+      <link>http://localhost:1313/posts/cursos/</link>
+      <pubDate>Thu, 20 Mar 2025 21:57:10 -0600</pubDate>
+      <guid>http://localhost:1313/posts/cursos/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Python-FES Aragón&lt;/li&gt;&#xA;&lt;li&gt;Intersemestrales en Base de datos y Programación con Java FX&lt;/li&gt;&#xA;&lt;li&gt;Java Foundations&lt;/li&gt;&#xA;&lt;li&gt;Becado por parte de Inroads en el programa de Análisis de Datos - Google 2024&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Acerca de mi </title>
+      <link>http://localhost:1313/posts/sobre-mi/</link>
+      <pubDate>Thu, 20 Mar 2025 21:52:29 -0600</pubDate>
+      <guid>http://localhost:1313/posts/sobre-mi/</guid>
+      <description>&lt;p&gt;Estudiante de cuarto semestre de Ingeniería en Computación enla Universidad Nacional Autónoma de México (UNAM) con una pasión por las tecnologías emergentes y el desarrollo de soluciones innovadoras. Busco constantemente nuevos conocimientos y desafíos. Actualmente en búsqueda de una oportunidad que me permita adquirir experiencia práctica en el sector tecnológico, donde pueda aplicar y expandir mis habilidades y conocimientos. Especialmente interesado en contribuir a proyectos que promuevan la innovación y el progreso tecnológico mediante el uso y desarrollo de inteligencia artificial. Además, me encuentro particularmente interesado por el desarrollo de las aplicaciones de inteligencia artificial en el mundo real.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Habilidades Tecnicas</title>
+      <link>http://localhost:1313/posts/habilidades/</link>
+      <pubDate>Thu, 20 Mar 2025 21:47:51 -0600</pubDate>
+      <guid>http://localhost:1313/posts/habilidades/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Java (Nivel básico)&lt;/li&gt;&#xA;&lt;li&gt;JavaFX (Nivel básico)&lt;/li&gt;&#xA;&lt;li&gt;C++ (Nivel básico)&lt;/li&gt;&#xA;&lt;li&gt;Python (Nivel básico)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Más información</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 20 Mar 2025 10:20:38 -0600</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;cualidades&#34;&gt;Cualidades&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Curiosidad&lt;/li&gt;&#xA;&lt;li&gt;Pensamiento analítico&lt;/li&gt;&#xA;&lt;li&gt;Adaptabilidad&lt;/li&gt;&#xA;&lt;li&gt;Actitud abierta al dialogo y la colaboración&lt;/li&gt;&#xA;&lt;li&gt;Creatividad&lt;/li&gt;&#xA;&lt;li&gt;Escucha activa&lt;/li&gt;&#xA;&lt;li&gt;Objetividad&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;idiomas&#34;&gt;Idiomas&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Español (Nativo)&lt;/li&gt;&#xA;&lt;li&gt;Ingles (B1)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;número-de-contacto&#34;&gt;Número de contacto&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;56-1427-4936&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;correo-electronico&#34;&gt;Correo electronico&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:c.chrisjim@gmail.com&#34;&gt;c.chrisjim@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
