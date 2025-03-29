@@ -1,6 +1,6 @@
 +++
 date = '2025-03-20T21:57:10-06:00'
-draft = true
+draft = false
 title = 'Cursos'
 +++
 
